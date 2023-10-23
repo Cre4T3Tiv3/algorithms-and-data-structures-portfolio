@@ -1,5 +1,3 @@
----
-
 # Algorithms and Data Structures Portfolio
 
 Note: This portfolio is a living project (WIP), consistently evolving and adapting to reflect new insights and development practices.
@@ -55,5 +53,3 @@ Contributions to improve the implementations or introduce new ones in different 
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md). Please refer to the LICENSE file for more details.
-
----
