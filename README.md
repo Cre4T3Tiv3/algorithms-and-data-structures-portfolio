@@ -14,10 +14,6 @@ Welcome to the Algorithms and Data Structures Portfolio. This repository is excl
 - [Contribution](#contribution)
 - [License](#license)
 
-Of course. Here's the updated "Structure" section of the README with the desired changes:
-
----
-
 ## Structure
 
 At its current state, the project is organized by algorithms/data structures and then further divided by the programming language. The presented structure gives a glimpse into the layout, but keep in mind, this is an evolving portfolio, and I'll be continuously expanding the repository as I add more solutions and dive into other languages and topics.
