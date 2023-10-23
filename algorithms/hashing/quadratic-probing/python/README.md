@@ -42,8 +42,10 @@ def test_hash_table():
     ht[1] = "One"
     ht[2] = "Two"
     ht[12] = "Twelve"
+    ht[22] = "Twenty Two"
     assert ht[1] == "One"
     assert ht[2] == "Two"
     assert ht[12] == "Twelve"
+    assert ht[22] == "Twenty Two"
     assert ht[3] is None
 ```
