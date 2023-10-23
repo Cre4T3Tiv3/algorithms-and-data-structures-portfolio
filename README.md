@@ -46,10 +46,6 @@ The implementations in this repository are available in:
 
 ... with more on the way!
 
-## Contribution
-
-Contributions to improve the implementations or introduce new ones in different languages are always welcome. Please review the contributing guidelines to ensure that your contributions are in line with the accepted standards of this repository.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md). Please refer to the LICENSE file for more details.
