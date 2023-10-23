@@ -31,8 +31,6 @@ algorithms-and-data-structures-portfolio
 
 Each language-specific directory contains the implementation and a dedicated README that offers a detailed explanation and any supplementary notes on the implementation.
 
----
-
 ## Getting Started
 
 To explore a specific algorithm or data structure:
