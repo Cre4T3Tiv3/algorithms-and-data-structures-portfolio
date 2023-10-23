@@ -1,5 +1,4 @@
 ---
-
 # Algorithms and Data Structures Portfolio
 
 🌱 Note: This portfolio is a living project (WIP), consistently evolving and adapting to reflect new insights and development practices.
