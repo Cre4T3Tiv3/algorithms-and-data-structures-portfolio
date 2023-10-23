@@ -25,6 +25,10 @@ algorithms-and-data-structures-portfolio
 |   |   |-- binary-search
 |   |   |   |-- python
 |   |   |   |-- go
+|   |-- hashing
+|   |   |-- quadratic-probing
+|   |   |   |-- python
+
 ```
 
 Each language-specific directory contains the implementation and a dedicated README that offers a detailed explanation and any supplementary notes on the implementation.
