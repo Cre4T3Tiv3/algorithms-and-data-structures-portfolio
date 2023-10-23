@@ -1,6 +1,6 @@
 # Algorithms and Data Structures Portfolio
 
-Note: This portfolio is a living project (WIP), consistently evolving and adapting to reflect new insights and development practices.
+🚧 **Note:** This portfolio is a living project (WIP), consistently evolving and adapting to reflect new insights and development practices.
 
 Welcome to the Algorithms and Data Structures Portfolio. This repository is exclusively intended as a portfolio project to showcase my understanding and multi-language skills pertaining to algorithms and data structures. It is a collection of popular algorithms and data structures implemented in various programming languages, including Python and Go. The aim is to provide clear, concise, and efficient implementations for both educational purposes and real-world applications.
 
