@@ -28,6 +28,13 @@ algorithms-and-data-structures-portfolio
 |   |-- hashing
 |   |   |-- quadratic-probing
 |   |   |   |-- python
+|   |-- sorting
+|   |   |-- adjusted-counting-sort
+|   |   |   |-- python
+|   |   |   |   |-- adjusted_counting.py
+|   |   |   |   |-- README.md
+|   |   |   |   |-- tests
+|   |   |   |   |   |-- test_adjusted_counting.py
 
 ```
 
