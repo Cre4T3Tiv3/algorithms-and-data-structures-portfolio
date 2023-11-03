@@ -1,4 +1,33 @@
 # ========================
+# Golang .gitignore
+# ========================
+
+# Binaries for Programs and Plugins:
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test Binary, Built with `go test -c`:
+*.test
+
+# Output of the Go Coverage Tool, Specifically When Used with LiteIDE:
+*.out
+
+# Dependency Directories (Remove the Comment Below to Include It)
+# vendor/
+
+# Go Workspace File:
+go.work
+
+# The Local Development Env-Var JSON Config File:
+/configs/config.json
+
+# Local Directory Containing Log Files:
+/logs/*
+
+# ========================
 # Python .gitignore
 # ========================
 
@@ -123,46 +152,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-
-# ========================
-# Bash .gitignore
-# ========================
-
-# Editor backup/swap files
-*~
-.*~
-*.swp
-.*.swp
-
-# Compiled Binaries or scripts (if any)
-bin/
-*.out
-
-# ========================
-# PowerShell .gitignore
-# ========================
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# JetBrains IDEs (like PyCharm)
-.idea/
 
 # ========================
 # MISC .gitignore

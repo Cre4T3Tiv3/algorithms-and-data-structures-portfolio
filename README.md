@@ -21,20 +21,37 @@ For example:
 ```
 algorithms-and-data-structures-portfolio
 |-- algorithms
-|   |-- searching
-|   |   |-- binary-search
-|   |   |   |-- python
-|   |   |   |-- go
+|   |-- dynamic-programming
+|   |   |-- python
+|   |   |   |-- max_sum_divisible_by_k.py
 |   |-- hashing
 |   |   |-- quadratic-probing
 |   |   |   |-- python
+|   |   |   |   |-- hash_quadratic_probing.py
+|   |   |   |   |-- README.md
+|   |-- searching
+|   |   |-- binary-search
+|   |   |   |-- go
+|   |   |   |   |-- binary_search_test.go
+|   |   |   |   |-- binary_search.go
+|   |   |   |   |-- go.mod
+|   |   |   |   |-- README.md
+|   |   |   |-- python
+|   |   |   |   |-- tests
+|   |   |   |   |   |-- test_binary_search.py
+|   |   |   |   |-- README.md
+|   |   |   |   |-- binary_search.py
 |   |-- sorting
 |   |   |-- adjusted-counting-sort
 |   |   |   |-- python
-|   |   |   |   |-- adjusted_counting.py
-|   |   |   |   |-- README.md
 |   |   |   |   |-- tests
 |   |   |   |   |   |-- test_adjusted_counting.py
+|   |   |   |   |-- adjusted_counting.py
+|   |   |   |   |-- README.md
+|-- .gitignore
+|-- LICENSE
+|-- README.md
+
 
 ```
 

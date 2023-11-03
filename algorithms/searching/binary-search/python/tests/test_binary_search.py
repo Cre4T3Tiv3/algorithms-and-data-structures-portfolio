@@ -26,11 +26,12 @@ def test_binary_search():
             result == expected
         ), f"Expected {expected}, but got {result} for array {arr} and target {target}"
 
-
+# Test the binary_search function.
 if __name__ == "__main__":
     try:
         # Run the tests.
         test_binary_search()
+        # Print a success message if all tests pass.
         print("All tests passed!")
     except AssertionError as e:
         # If any test fails, print a detailed error message.
