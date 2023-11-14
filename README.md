@@ -16,7 +16,7 @@ Welcome to the Algorithms and Data Structures Portfolio. This repository is excl
 
 At its current state, the project is organized by algorithms/data structures and then further divided by the programming language. The presented structure gives a glimpse into the layout, but keep in mind, this is an evolving portfolio, and I'll be continuously expanding the repository as I add more solutions and dive into other languages and topics.
 
-For example:
+The structure below is a high-level overview:
 
 ```
 algorithms-and-data-structures-portfolio
@@ -48,6 +48,22 @@ algorithms-and-data-structures-portfolio
 |   |   |   |   |   |-- test_adjusted_counting.py
 |   |   |   |   |-- adjusted_counting.py
 |   |   |   |   |-- README.md
+|-- data-structures
+|   |-- hash-tables
+|   |   |-- python
+|   |   |   |-- hash_table_simple.py
+|   |   |   |-- tests
+|   |   |   |   |-- test_hash_table_simple.py
+|   |   |   |-- README.md
+|   |-- linked-lists
+|   |   |-- double-linked-list
+|   |   |-- python
+|   |   |   |-- double_linked_list.py
+|   |   |   |-- double_linked_list_lru_eviction.py
+|   |   |   |-- tests 
+|   |   |   |   |-- test_double_linked_list.py
+|   |   |   |   |-- test_double_linked_list_lru_eviction.py
+|   |   |   |-- README.md
 |-- .gitignore
 |-- LICENSE
 |-- README.md
@@ -55,7 +71,7 @@ algorithms-and-data-structures-portfolio
 
 ```
 
-Each language-specific directory contains the implementation and a dedicated README that offers a detailed explanation and any supplementary notes on the implementation.
+Each language-specific directory contains implementations along with a README that offers detailed explanations and any supplementary notes.
 
 ## Getting Started
 
@@ -67,7 +83,7 @@ To explore a specific algorithm or data structure:
 
 ## Languages
 
-The implementations in this repository are available in:
+The implementations are available in:
 
 - Python
 - Go
